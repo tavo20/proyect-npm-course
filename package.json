@@ -1,0 +1,27 @@
+{
+  "name": "random-messages-course-npm-tavoracho",
+  "version": "1.0.0",
+  "description": "random mensagges",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "messages",
+    "love"
+  ],
+  "author": "MIT",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tavo20/proyect-npm-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tavo20/proyect-npm-course/issues"
+  },
+  "homepage": "https://github.com/tavo20/proyect-npm-course#readme"
+}
